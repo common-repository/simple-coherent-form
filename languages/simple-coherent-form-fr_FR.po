@@ -1,0 +1,596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Pictures Slider\n"
+"POT-Creation-Date: 2022-10-28 13:50+0200\n"
+"PO-Revision-Date: 2022-10-28 13:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: tombgtn\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/admin.php:262 includes/admin/admin.php:278
+#: includes/admin/admin.php:1898
+msgid "Sliders"
+msgstr "Sliders"
+
+#: includes/admin/admin.php:263 includes/admin/admin.php:291
+#: includes/admin/admin.php:1977
+msgid "Slider"
+msgstr "Slider"
+
+#: includes/admin/admin.php:264
+msgid "Add New Slider"
+msgstr "Ajouter Nouveau Slider"
+
+#: includes/admin/admin.php:265
+msgid "Edit Slider"
+msgstr "Modifier Slider"
+
+#: includes/admin/admin.php:266
+msgid "New Slider"
+msgstr "Nouveau Slider"
+
+#: includes/admin/admin.php:267
+msgid "View Slider"
+msgstr "Voir Slider"
+
+#: includes/admin/admin.php:268
+msgid "View Sliders"
+msgstr "Voir Sliders"
+
+#: includes/admin/admin.php:269
+msgid "Search Slider"
+msgstr "Rechercher Slider"
+
+#: includes/admin/admin.php:270
+msgid "No sliders found"
+msgstr "Aucun slider trouvé"
+
+#: includes/admin/admin.php:271
+msgid "No sliders found in Trash"
+msgstr "Aucun slider trouvé dans la Corbeille"
+
+#: includes/admin/admin.php:272
+msgid "Parent Slider:"
+msgstr "Slider Parent :"
+
+#: includes/admin/admin.php:273
+msgid "All Sliders"
+msgstr "Tous les Sliders"
+
+#: includes/admin/admin.php:274
+msgid "Slider Archives"
+msgstr "Archive des Sliders"
+
+#: includes/admin/admin.php:275
+msgid "Slider Attributes"
+msgstr "Attributs du Slider"
+
+#: includes/admin/admin.php:276
+msgid "Insert into slider"
+msgstr "Insérer dans le slider"
+
+#: includes/admin/admin.php:277
+msgid "Uploaded to this slider"
+msgstr "Téléverser sur le slider"
+
+#: includes/admin/admin.php:279
+msgid "Filter sliders list"
+msgstr "Filtrer la liste des sliders"
+
+#: includes/admin/admin.php:280
+msgid "Sliders list navigation"
+msgstr ""
+
+#: includes/admin/admin.php:281
+msgid "Sliders list"
+msgstr "Liste des sliders"
+
+#: includes/admin/admin.php:282
+msgid "Slider published."
+msgstr "Slider publié."
+
+#: includes/admin/admin.php:283
+msgid "Slider published privately."
+msgstr "Slider publié en privé."
+
+#: includes/admin/admin.php:284
+msgid "Slider reverted to draft."
+msgstr "Slider retourné en brouillon."
+
+#: includes/admin/admin.php:285
+msgid "Slider scheduled."
+msgstr "Slider planifié."
+
+#: includes/admin/admin.php:286
+msgid "Slider updated."
+msgstr "Slider mis à jour."
+
+#: includes/admin/admin.php:287
+msgid "Slider Link."
+msgstr "Lien du Slider."
+
+#: includes/admin/admin.php:288
+msgid "A link to a slider."
+msgstr "Un lien vers le slider."
+
+#: includes/admin/admin.php:293
+msgid "Simple sliders of pictures"
+msgstr "Simple slider d'images"
+
+#: includes/admin/admin.php:318 includes/admin/admin.php:334
+msgid "Slides"
+msgstr "Slides"
+
+#: includes/admin/admin.php:319 includes/admin/admin.php:347
+msgid "Slide"
+msgstr "Slide"
+
+#: includes/admin/admin.php:320
+msgid "Add New Slide"
+msgstr "Ajouter Nouvel Slide"
+
+#: includes/admin/admin.php:321
+msgid "Edit Slide"
+msgstr "Modifier Slide"
+
+#: includes/admin/admin.php:322
+msgid "New Slide"
+msgstr "Nouvel Slide"
+
+#: includes/admin/admin.php:323
+msgid "View Slide"
+msgstr "Voir la Slide"
+
+#: includes/admin/admin.php:324
+msgid "View Slides"
+msgstr "Voir les Slides"
+
+#: includes/admin/admin.php:325
+msgid "Search Slide"
+msgstr "Rechercher Slide"
+
+#: includes/admin/admin.php:326
+msgid "No slides found"
+msgstr "Aucune slide trouvé"
+
+#: includes/admin/admin.php:327
+msgid "No slides found in Trash"
+msgstr "Aucune slide trouvé dans la corbeille"
+
+#: includes/admin/admin.php:328
+msgid "Parent Slide:"
+msgstr "Slide Parent :"
+
+#: includes/admin/admin.php:329
+msgid "All Slides"
+msgstr "Toutes les Slides"
+
+#: includes/admin/admin.php:330
+msgid "Slide Archives"
+msgstr "Archive des Slides"
+
+#: includes/admin/admin.php:331
+msgid "Slide Attributes"
+msgstr "Attributs de la Slide"
+
+#: includes/admin/admin.php:332
+msgid "Insert into slide"
+msgstr "Insérer dans la slide"
+
+#: includes/admin/admin.php:333
+msgid "Uploaded to this slide"
+msgstr "Téléverser dans cette slide"
+
+#: includes/admin/admin.php:335
+msgid "Filter slides list"
+msgstr "Filtrer la liste des slides"
+
+#: includes/admin/admin.php:336
+msgid "Slides list navigation"
+msgstr ""
+
+#: includes/admin/admin.php:337
+msgid "Slides list"
+msgstr "Liste des slides"
+
+#: includes/admin/admin.php:338
+msgid "Slide published."
+msgstr "Slide publié."
+
+#: includes/admin/admin.php:339
+msgid "Slide published privately."
+msgstr "Slide publié en privé."
+
+#: includes/admin/admin.php:340
+msgid "Slide reverted to draft."
+msgstr "Slide retourné en brouillon."
+
+#: includes/admin/admin.php:341
+msgid "Slide scheduled."
+msgstr "Slide planifié."
+
+#: includes/admin/admin.php:342
+msgid "Slide updated."
+msgstr "Slide mise à jour."
+
+#: includes/admin/admin.php:343
+msgid "Slide Link."
+msgstr "Lien de la Slide."
+
+#: includes/admin/admin.php:344
+msgid "A link to a slide."
+msgstr "Un lien vers la slide."
+
+#: includes/admin/admin.php:349
+msgid "Simple slides for simple sliders"
+msgstr "Simple slide pour simple sliders"
+
+#: includes/admin/admin.php:384
+msgid "Just a simple slider of pictures"
+msgstr "Juste un simple slider d'images"
+
+#: includes/admin/admin.php:385
+msgid ""
+"A simple plugin to display a picture slider. Light, efficient and compatible "
+"with ACF. Best for developers."
+msgstr ""
+"Un simple plugin pour afficher un slider d'images. Léger, efficace et "
+"compatible avec ACF. Parfait pour les développeurs."
+
+#: includes/admin/admin.php:386
+msgid ""
+"SPS is a simple plugin to create a slider of pictures and display it with a "
+"shortcode or PHP code. Few options to keep it simple, but fast and "
+"efficient. Some hooks to improve the slider or to configure it more "
+"specifically. Good plugin for developers, with possibility to control what "
+"your client can edit or not in the advanced options."
+msgstr ""
+"SPS est un plugin très simple pour créer un slider d'images et l'afficher "
+"avec un shortcode ou en PHP. Peu d'options pour rester simple, mais rapide "
+"et efficace. Plusieurs crochets pour améliorer le slider ou le configurer "
+"plus spécifiquement. Un bon plugin pour les développeurs, avec la "
+"possibilité de contrôler ce que votre client peut modifier dans les options "
+"avancés."
+
+#: includes/admin/admin.php:387
+msgid ""
+"Compatible with ACF, you can put field groups for every slide. It's possible "
+"to override template files for displaying the fields."
+msgstr ""
+"Compatible avec ACF, vous pouvez créer des groupes de champs pour les "
+"slides. Avec la possibilité de surcharger les fichiers de templates afin "
+"d'afficher les champs."
+
+#: includes/admin/admin.php:421 includes/admin/admin.php:470
+#: includes/admin/admin.php:471
+msgid "Select Media"
+msgstr "Sélectionnez ou téléversez une image"
+
+#: includes/admin/admin.php:443 includes/admin/admin.php:1477
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: includes/admin/admin.php:444 includes/admin/admin.php:1478
+msgid "Medium"
+msgstr "Moyen"
+
+#: includes/admin/admin.php:445 includes/admin/admin.php:1479
+msgid "Large"
+msgstr "Grand"
+
+#: includes/admin/admin.php:446 includes/admin/admin.php:1480
+msgid "Full Size"
+msgstr "Original"
+
+#: includes/admin/admin.php:456 includes/admin/admin.php:461
+#: includes/admin/admin.php:472 includes/admin/admin.php:1521
+#: includes/admin/admin.php:1529 includes/admin/admin.php:1589
+#: includes/admin/admin.php:1597
+#, php-format
+msgid " (%s &times; %s px)"
+msgstr " (%s &times; %s px)"
+
+#: includes/admin/admin.php:536
+msgid "Shortcode"
+msgstr "Code court"
+
+#: includes/admin/admin.php:537
+msgid "PHP Code"
+msgstr "Code PHP"
+
+#: includes/admin/admin.php:553 includes/admin/admin.php:557
+#: includes/admin/admin.php:638 includes/admin/admin.php:641
+msgid "Copied!"
+msgstr "Copiée !"
+
+#: includes/admin/admin.php:600 includes/admin/admin.php:716
+#: includes/admin/admin.php:717
+msgid "Publish"
+msgstr "Publier"
+
+#: includes/admin/admin.php:602
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: includes/admin/admin.php:603
+msgid "Transitions"
+msgstr "Transitions"
+
+#: includes/admin/admin.php:604
+msgid "Next & Previous Arrows"
+msgstr "Flèches directionnels"
+
+#: includes/admin/admin.php:605
+msgid "Navigation Dots"
+msgstr "Navigation"
+
+#: includes/admin/admin.php:606
+msgid "Animation"
+msgstr "Animation"
+
+#: includes/admin/admin.php:607
+msgid "Advanced"
+msgstr "Avancé"
+
+#: includes/admin/admin.php:629 includes/admin/admin.php:1549
+#: includes/admin/admin.php:1617
+msgid "Save"
+msgstr "Enregistrer"
+
+#: includes/admin/admin.php:634
+msgid "Add slides"
+msgstr "Ajouter une slide"
+
+#: includes/admin/admin.php:693
+msgid "Delete permanently"
+msgstr "Supprimer définitivement"
+
+#: includes/admin/admin.php:695
+msgid "Move to Trash"
+msgstr "Mettre à la Corbeille"
+
+#: includes/admin/admin.php:711 includes/admin/admin.php:712
+msgid "Schedule"
+msgstr "Programmer"
+
+#: includes/admin/admin.php:722 includes/admin/admin.php:723
+msgid "Submit for Review"
+msgstr "Soumettre pour Révision"
+
+#: includes/admin/admin.php:728 includes/admin/admin.php:729
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: includes/admin/admin.php:755
+msgid "Width"
+msgstr "Largeur"
+
+#: includes/admin/admin.php:762
+msgid "Height"
+msgstr "Hauteur"
+
+#: includes/admin/admin.php:767
+msgid "Set maximum width at 100%"
+msgstr "Fixer la largeur maximum à 100%"
+
+#: includes/admin/admin.php:771
+msgid "Keep ratio"
+msgstr "Garder le rapport"
+
+#: includes/admin/admin.php:773
+msgid ""
+"Keep the ratio width/height of the slider (checked) or leave the height "
+"fixed (unchecked)."
+msgstr ""
+"Garde le rapport largeur/hauteur du slider (cochée) ou laisse la hauteur "
+"fixe (non cochée)"
+
+#: includes/admin/admin.php:789 includes/admin/admin.php:1093
+msgid "Fade"
+msgstr "Fondu"
+
+#: includes/admin/admin.php:790 includes/admin/admin.php:1094
+msgid "Slide Right to Left"
+msgstr "Glisser de droite à gauche"
+
+#: includes/admin/admin.php:791 includes/admin/admin.php:1095
+msgid "Slide Bottom to Top"
+msgstr "Glisser du bas vers le haut"
+
+#: includes/admin/admin.php:792 includes/admin/admin.php:1096
+msgid "Slide Left to Right"
+msgstr "Glisser de gauche à droite"
+
+#: includes/admin/admin.php:793 includes/admin/admin.php:1097
+msgid "Slide Top to Bottom"
+msgstr "Glisser du haut vers le bas"
+
+#: includes/admin/admin.php:797
+msgid "Transition Effect"
+msgstr "Effet de Transition"
+
+#: includes/admin/admin.php:805
+msgid "Duration"
+msgstr "Durée"
+
+#: includes/admin/admin.php:807
+msgid "Sets the duration (in milliseconds) for the slideshow transition."
+msgstr "Fixe la durée (en millisecondes) des transitions."
+
+#: includes/admin/admin.php:826
+msgid "Enable Arrows"
+msgstr "Activer les Flèches"
+
+#: includes/admin/admin.php:830 includes/admin/admin.php:855
+msgid "Positioned Inside"
+msgstr "Positionné à l'intérieur"
+
+#: includes/admin/admin.php:832
+msgid ""
+"Sets the position of the arrows : inside the slider (checked) or outside "
+"(unchecked)."
+msgstr ""
+"Détermine la position des flèches : à l'intérieur du slider (cochée) ou à "
+"l'extérieur (non cochée)."
+
+#: includes/admin/admin.php:851
+msgid "Enable Navigation Dots"
+msgstr "Activer la Navigation"
+
+#: includes/admin/admin.php:857
+msgid ""
+"Sets the position of the navigation dots : centered inside the slider "
+"(checked) or outside (unchecked)."
+msgstr ""
+"Détermine la position de la navigation : centré à l'intérieur du slider "
+"(cochée) ou à l'extérieur (non cochée)."
+
+#: includes/admin/admin.php:875
+msgid "Enable Animation"
+msgstr "Activer l'Animation"
+
+#: includes/admin/admin.php:877
+msgid "Duration of the slides"
+msgstr "Durée des slides"
+
+#: includes/admin/admin.php:879
+msgid "Sets the duration (in milliseconds) of the slides display."
+msgstr "Fixe la durée (en millisecondes) de l'affichage des slides."
+
+#: includes/admin/admin.php:882
+msgid "Pause Animation on Hover"
+msgstr "Mettre en Pause au Survol"
+
+#: includes/admin/admin.php:900
+msgid "Infinite Slider"
+msgstr "Slider Infini"
+
+#: includes/admin/admin.php:904
+msgid "Enable Mouse & Touch Control"
+msgstr "Activer le Contrôle Tactile"
+
+#: includes/admin/admin.php:987
+msgid "Enter slider name here"
+msgstr "Entrez le nom du slider"
+
+#: includes/admin/admin.php:1325
+msgid "No pictures found"
+msgstr "Aucune image trouvé"
+
+#: includes/admin/admin.php:1326
+msgid "Add picture"
+msgstr "Ajouter une image"
+
+#: includes/admin/admin.php:1344
+msgid "Change picture"
+msgstr "Modifier l'image"
+
+#: includes/admin/admin.php:1345 includes/admin/admin.php:1358
+msgid "Save slide"
+msgstr "Enregistrer"
+
+#: includes/admin/admin.php:1347
+msgid "Remove slide"
+msgstr "Supprimer la slide"
+
+#: includes/admin/admin.php:1388
+msgid "Advanced Mode"
+msgstr "Mode Avancé"
+
+#: includes/admin/admin.php:1441
+msgid "Set as Background Image"
+msgstr "Afficher en tant que background-image"
+
+#: includes/admin/admin.php:1457
+msgid "Picture sizes"
+msgstr "Tailles d'image"
+
+#: includes/admin/admin.php:1487 includes/admin/admin.php:1700
+msgid "1&times;"
+msgstr "1&times;"
+
+#: includes/admin/admin.php:1488 includes/admin/admin.php:1701
+msgid "2&times;"
+msgstr "2&times;"
+
+#: includes/admin/admin.php:1489 includes/admin/admin.php:1702
+msgid "3&times;"
+msgstr "3&times;"
+
+#: includes/admin/admin.php:1490 includes/admin/admin.php:1703
+msgid "4&times;"
+msgstr "4&times;"
+
+#: includes/admin/admin.php:1503 includes/admin/admin.php:1571
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/admin/admin.php:1506 includes/admin/admin.php:1574
+msgid "Picture #"
+msgstr "Image n°"
+
+#: includes/admin/admin.php:1507 includes/admin/admin.php:1511
+#: includes/admin/admin.php:1575 includes/admin/admin.php:1579
+msgid "Edit Picture"
+msgstr "Modifier l'image"
+
+#: includes/admin/admin.php:1507 includes/admin/admin.php:1575
+msgid "Remove"
+msgstr "Enlever"
+
+#: includes/admin/admin.php:1510 includes/admin/admin.php:1578
+msgid "Current Picture"
+msgstr "Image Courante"
+
+#: includes/admin/admin.php:1548 includes/admin/admin.php:1616
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/admin/admin.php:1621 includes/admin/admin.php:1622
+msgid "Add a new picture size"
+msgstr "Nouvelle taille d'image"
+
+#: includes/admin/admin.php:1637
+msgid "Alternative text"
+msgstr "Texte Alternatif"
+
+#: includes/admin/admin.php:1942
+msgid "Half size"
+msgstr "Taille &frac12;"
+
+#: includes/admin/admin.php:1943
+msgid "Quarter size"
+msgstr "Taille &frac14;"
+
+#: includes/front/front.php:142
+msgid "No Slider ID found."
+msgstr "Aucun ID de slider trouvé."
+
+#: includes/front/front.php:144
+#, php-format
+msgid "No Slider with ID #%s found."
+msgstr "Aucun Slider avec l'ID %s trouvé."
+
+#: includes/front/front.php:146
+#, php-format
+msgid "The slider #%s is not published."
+msgstr "Le slider n°%s n'est pas publié."
+
+#: includes/front/helpers.php:40
+#, php-format
+msgid "%s does not exist."
+msgstr "%s n'existe pas."
+
+#: includes/front/helpers.php:54
+msgid "action_args should not be overwritten when calling sps_get_template."
+msgstr ""
+"action_args ne peut pas être surchargé lors de l'appel à sps_get_template."

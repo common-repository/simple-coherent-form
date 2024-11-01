@@ -1,0 +1,1299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Coherent Form\n"
+"POT-Creation-Date: 2024-01-02 16:32+0100\n"
+"PO-Revision-Date: 2024-01-02 16:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: tombgtn\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x;_ex;_nx:1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop:1,2;_nx_noop:1,2;"
+"translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/fields/date.php:52
+msgid "Dimanche"
+msgstr "Sunday"
+
+#: includes/fields/date.php:53
+msgid "Lundi"
+msgstr "Monday"
+
+#: includes/fields/date.php:54
+msgid "Mardi"
+msgstr "Tuesday"
+
+#: includes/fields/date.php:55
+msgid "Mercredi"
+msgstr "Wednesday"
+
+#: includes/fields/date.php:56
+msgid "Jeudi"
+msgstr "Thursday"
+
+#: includes/fields/date.php:57
+msgid "Vendredi"
+msgstr "Friday"
+
+#: includes/fields/date.php:58
+msgid "Samedi"
+msgstr "Saturday"
+
+#: includes/fields/date.php:61
+msgid "Dim."
+msgstr "Sun."
+
+#: includes/fields/date.php:62
+msgid "Lun."
+msgstr "Mon."
+
+#: includes/fields/date.php:63
+msgid "Mar."
+msgstr "Tue."
+
+#: includes/fields/date.php:64
+msgid "Mer."
+msgstr "Wed."
+
+#: includes/fields/date.php:65
+msgid "Jeu."
+msgstr "Thu."
+
+#: includes/fields/date.php:66
+msgid "Ven."
+msgstr "Fri."
+
+#: includes/fields/date.php:67
+msgid "Sam."
+msgstr "Sat."
+
+#: includes/fields/date.php:70
+msgid "Janvier"
+msgstr "January"
+
+#: includes/fields/date.php:71
+msgid "Février"
+msgstr "February"
+
+#: includes/fields/date.php:72
+msgid "Mars"
+msgstr "March"
+
+#: includes/fields/date.php:73
+msgid "Avril"
+msgstr "April"
+
+#: includes/fields/date.php:74
+msgid "Mai"
+msgstr "May"
+
+#: includes/fields/date.php:75
+msgid "Juin"
+msgstr "June"
+
+#: includes/fields/date.php:76
+msgid "Juillet"
+msgstr "July"
+
+#: includes/fields/date.php:77
+msgid "Août"
+msgstr "August"
+
+#: includes/fields/date.php:78
+msgid "Septembre"
+msgstr "September"
+
+#: includes/fields/date.php:79
+msgid "Octobre"
+msgstr "October"
+
+#: includes/fields/date.php:80
+msgid "Novembre"
+msgstr "November"
+
+#: includes/fields/date.php:81
+msgid "Décembre"
+msgstr "December"
+
+#: includes/fields/date.php:312
+msgid "Mois précédent"
+msgstr "Previous month"
+
+#: includes/fields/date.php:313
+msgid "Mois suivant"
+msgstr "Next month"
+
+#: includes/fields/file.php:108
+msgid "Supprimer le fichier"
+msgstr "Remove file"
+
+#: includes/fields/file.php:109
+msgid "En cours"
+msgstr "Removing"
+
+#: includes/fields/file.php:110
+msgid "Fichier supprimé"
+msgstr "File removed"
+
+#: includes/fields/file.php:151
+msgid "Choisir un fichier"
+msgstr "Choose a file"
+
+#: includes/fields/file.php:153
+#, php-format
+msgid "%s fichier selectionné"
+msgid_plural "%s fichiers selectionnés"
+msgstr[0] "%s file selected"
+msgstr[1] "%s files selected"
+
+#: includes/fields/file.php:287
+msgid "Ce fichier doit être au format&nbsp;:"
+msgid_plural "Ces fichiers doivent être au format&nbsp;:"
+msgstr[0] "This file must be in&nbsp;:"
+msgstr[1] "These files must be in&nbsp;:"
+
+#: includes/fields/file.php:289
+msgid "Les formats acceptés pour ce fichier sont&nbsp;:"
+msgid_plural "Les formats acceptés pour ces fichiers sont&nbsp;:"
+msgstr[0] "The formats accepted for this file are&nbsp;:"
+msgstr[1] "The formats accepted for these files are&nbsp;:"
+
+#: includes/fields/file.php:312 includes/fields/file.php:354
+#, php-format
+msgid "Ce fichier ne doit pas excéder %s."
+msgid_plural "Ces fichiers ne doivent pas excéder %s chacun."
+msgstr[0] "This file must not exceed %s."
+msgstr[1] "These files must not exceed %s each."
+
+#: includes/fields/file.php:322 includes/fields/file.php:335
+#, php-format
+msgid "%s fichier maximum."
+msgid_plural "%s fichiers maximum."
+msgstr[0] "%s file maximum."
+msgstr[1] "%s files maximum."
+
+#: includes/fields/file.php:339
+msgid "Plusieurs fichiers autorisés."
+msgstr "Several files allowed."
+
+#: includes/fields/file.php:393
+msgid "Format accepté&nbsp;:"
+msgid_plural "Formats acceptés&nbsp;:"
+msgstr[0] "Accepted format&nbsp;:"
+msgstr[1] "Accepted formats&nbsp;:"
+
+#: includes/fields/file.php:437
+msgid "Tous les formats audio"
+msgstr "All audio formats"
+
+#: includes/fields/file.php:440
+msgid "Tous les formats video"
+msgstr "All video formats"
+
+#: includes/fields/file.php:443
+msgid "Tous les formats de texte"
+msgstr "All text formats"
+
+#: includes/fields/file.php:446
+msgid "Tous les formats d'image"
+msgstr "All picture formats"
+
+#: includes/fields/file.php:449
+msgid "Tous les formats de police"
+msgstr "All font formats"
+
+#: includes/fields/file.php:458 includes/fields/file.php:516
+msgid "Fichier audio AAC"
+msgstr "Audio file AAC"
+
+#: includes/fields/file.php:465
+msgid "Fichier audio MIDI"
+msgstr "Audio file MIDI"
+
+#: includes/fields/file.php:471
+msgid "Fichier audio OGG"
+msgstr "Audio file OGG"
+
+#: includes/fields/file.php:479
+msgid "Fichier audio WAV"
+msgstr "Audio file WAV"
+
+#: includes/fields/file.php:487
+msgid "Fichier audio MPEG"
+msgstr "Audio file MPEG"
+
+#: includes/fields/file.php:490
+msgid "Fichier audio MP3"
+msgstr "Audio file MP3"
+
+#: includes/fields/file.php:494
+msgid "Fichier audio MP4"
+msgstr "Audio file MP4"
+
+#: includes/fields/file.php:498
+msgid "Fichier audio WEBM"
+msgstr "Audio file WEBM"
+
+#: includes/fields/file.php:502
+msgid "Fichier audio OPUS"
+msgstr "Audio file OPUS"
+
+#: includes/fields/file.php:505
+msgid "Fichier audio 3GPP"
+msgstr "Audio file 3GPP"
+
+#: includes/fields/file.php:508
+msgid "Fichier audio 3GPP2"
+msgstr "Audio file 3GPP2"
+
+#: includes/fields/file.php:512
+msgid "Fichier audio ADPCM"
+msgstr "Audio file ADPCM"
+
+#: includes/fields/file.php:524
+msgid "Fichier audio AIF, AIFC, AIFF et AFF"
+msgstr "Audio file AIF, AIFC, AIFF and AFF"
+
+#: includes/fields/file.php:529
+msgid "Fichier audio FLAC"
+msgstr "Audio file FLAC"
+
+#: includes/fields/file.php:533
+msgid "Fichier audio MKA"
+msgstr "Audio file MKA"
+
+#: includes/fields/file.php:537
+msgid "Fichier audio UVA"
+msgstr "Audio file UVA"
+
+#: includes/fields/file.php:541
+msgid "Fichier audio EOL"
+msgstr "Audio file EOL"
+
+#: includes/fields/file.php:545
+msgid "Fichier audio DRA"
+msgstr "Audio file DRA"
+
+#: includes/fields/file.php:549
+msgid "Fichier audio DTS"
+msgstr "Audio file DTS"
+
+#: includes/fields/file.php:553
+msgid "Fichier audio DTS HD"
+msgstr "Audio file DTS HD"
+
+#: includes/fields/file.php:557
+msgid "Fichier audio RIP"
+msgstr "Audio file RIP"
+
+#: includes/fields/file.php:561
+msgid "Fichier audio LVP"
+msgstr "Audio file LVP"
+
+#: includes/fields/file.php:565
+msgid "Fichier audio M3U"
+msgstr "Audio file M3U"
+
+#: includes/fields/file.php:569
+msgid "Fichier audio PYA"
+msgstr "Audio file PYA"
+
+#: includes/fields/file.php:573
+msgid "Fichier audio WMA"
+msgstr "Audio file WMA"
+
+#: includes/fields/file.php:577
+msgid "Fichier audio WAX"
+msgstr "Audio file WAX"
+
+#: includes/fields/file.php:581
+msgid "Fichier audio ECELP 4800"
+msgstr "Audio file ECELP 4800"
+
+#: includes/fields/file.php:585
+msgid "Fichier audio ECELP 7470"
+msgstr "Audio file ECELP 7470"
+
+#: includes/fields/file.php:589
+msgid "Fichier audio ECELP 9600"
+msgstr "Audio file ECELP 9600"
+
+#: includes/fields/file.php:594
+msgid "Fichier audio RAM"
+msgstr "Audio file RAM"
+
+#: includes/fields/file.php:598
+msgid "Fichier audio RMP"
+msgstr "Audio file RMP"
+
+#: includes/fields/file.php:603
+msgid "Fichier audio Sun"
+msgstr "Audio file Sun"
+
+#: includes/fields/file.php:611
+msgid "Police OpenType"
+msgstr "OpenType font"
+
+#: includes/fields/file.php:615
+msgid "Police TrueType"
+msgstr "TrueType font"
+
+#: includes/fields/file.php:619
+msgid "Police WOFF"
+msgstr "WOFF font"
+
+#: includes/fields/file.php:623
+msgid "Police WOFF2"
+msgstr "WOFF2 font"
+
+#: includes/fields/file.php:631
+msgid "Image AVIF"
+msgstr "AVIF picture"
+
+#: includes/fields/file.php:635
+msgid "Image Bitmap"
+msgstr "Bitmap picture"
+
+#: includes/fields/file.php:639
+msgid "Image CGM"
+msgstr "CGM picture"
+
+#: includes/fields/file.php:643
+msgid "Image G3"
+msgstr "G3 picture"
+
+#: includes/fields/file.php:647
+msgid "Image IEF"
+msgstr "IEF picture"
+
+#: includes/fields/file.php:651
+msgid "Image au format Apple (HEIC)"
+msgstr "Apple format picture (HEIC)"
+
+#: includes/fields/file.php:654
+msgid "Image HEIF"
+msgstr "HEIF picture"
+
+#: includes/fields/file.php:658
+msgid "Image GIF"
+msgstr "GIF picture"
+
+#: includes/fields/file.php:662
+msgid "Icône"
+msgstr "Icon"
+
+#: includes/fields/file.php:674
+msgid "Image JPEG"
+msgstr "JPEG picture"
+
+#: includes/fields/file.php:680
+msgid "Image PNG"
+msgstr "PNG picture"
+
+#: includes/fields/file.php:684
+msgid "Image BTIF"
+msgstr "BTIF picture"
+
+#: includes/fields/file.php:689
+msgid "Image vectoriel (SVG)"
+msgstr "Vector (SVG)"
+
+#: includes/fields/file.php:694
+msgid "Image TIFF"
+msgstr "TIFF picture"
+
+#: includes/fields/file.php:698
+msgid "Image WEBP"
+msgstr "WEBP picture"
+
+#: includes/fields/file.php:702
+msgid "Image Photoshop (PSD)"
+msgstr "Photoshop image (PSD)"
+
+#: includes/fields/file.php:706
+msgid "Image DJV"
+msgstr "DJV picture"
+
+#: includes/fields/file.php:710
+msgid "Image DWG"
+msgstr "DWG picture"
+
+#: includes/fields/file.php:714
+msgid "Image DXF"
+msgstr "DXF picture"
+
+#: includes/fields/file.php:718
+msgid "Image FBS"
+msgstr "FBS picture"
+
+#: includes/fields/file.php:722
+msgid "Image FPX"
+msgstr "FPX picture"
+
+#: includes/fields/file.php:726
+msgid "Image FST"
+msgstr "FST picture"
+
+#: includes/fields/file.php:730
+msgid "Image MMR"
+msgstr "MMR picture"
+
+#: includes/fields/file.php:734
+msgid "Image RLC"
+msgstr "RLC picture"
+
+#: includes/fields/file.php:738
+msgid "Image MDI"
+msgstr "MDI picture"
+
+#: includes/fields/file.php:742
+msgid "Image NPX"
+msgstr "NPX picture"
+
+#: includes/fields/file.php:746
+msgid "Image WBMP"
+msgstr "WBMP picture"
+
+#: includes/fields/file.php:750
+msgid "Image XIF"
+msgstr "XIF picture"
+
+#: includes/fields/file.php:754
+msgid "Image DNG"
+msgstr "DNG picture"
+
+#: includes/fields/file.php:758
+msgid "Image CR2"
+msgstr "CR2 picture"
+
+#: includes/fields/file.php:762
+msgid "Image CRW"
+msgstr "CRW picture"
+
+#: includes/fields/file.php:766
+msgid "Image RAS"
+msgstr "RAS picture"
+
+#: includes/fields/file.php:770
+msgid "Image CMX"
+msgstr "CMX picture"
+
+#: includes/fields/file.php:774
+msgid "Image ERF"
+msgstr "ERF picture"
+
+#: includes/fields/file.php:778
+msgid "Image Freehand"
+msgstr "Freehand picture"
+
+#: includes/fields/file.php:782
+msgid "Image RAF"
+msgstr "RAF picture"
+
+#: includes/fields/file.php:786
+msgid "Image ICNS"
+msgstr "ICNS picture"
+
+#: includes/fields/file.php:790
+msgid "Image DCR"
+msgstr "DCR picture"
+
+#: includes/fields/file.php:794
+msgid "Image Kodak K25"
+msgstr "Kodak K25 picture"
+
+#: includes/fields/file.php:798
+msgid "Image Kodak KDC"
+msgstr "Kodak KDC picture"
+
+#: includes/fields/file.php:802
+msgid "Image Minolta MRW"
+msgstr "Minolta MRW picture"
+
+#: includes/fields/file.php:806
+msgid "Image Nikon NEF"
+msgstr "Nikon NEF picture"
+
+#: includes/fields/file.php:810
+msgid "Image Olympus ORF"
+msgstr "Olympus ORF picture"
+
+#: includes/fields/file.php:814
+msgid "Image RAW"
+msgstr "RAW picture"
+
+#: includes/fields/file.php:818
+msgid "Image PCX"
+msgstr "PCX picture"
+
+#: includes/fields/file.php:822
+msgid "Image Pentax PEF"
+msgstr "Pentax PEF picture"
+
+#: includes/fields/file.php:826
+msgid "Image PCT et PIC"
+msgstr "PCT and PIC picture"
+
+#: includes/fields/file.php:830
+msgid "Image PNM"
+msgstr "PNM picture"
+
+#: includes/fields/file.php:834
+msgid "Image PBM"
+msgstr "PBM picture"
+
+#: includes/fields/file.php:838
+msgid "Image PGM"
+msgstr "PGM picture"
+
+#: includes/fields/file.php:842
+msgid "Image PPM"
+msgstr "PPM picture"
+
+#: includes/fields/file.php:846
+msgid "Image RGB"
+msgstr "RGB picture"
+
+#: includes/fields/file.php:850
+msgid "Image Sigma X3F"
+msgstr "Sigma X3F picture"
+
+#: includes/fields/file.php:854
+msgid "Image Sony ARW"
+msgstr "Sony ARW picture"
+
+#: includes/fields/file.php:858
+msgid "Image Sony SR2"
+msgstr "Sony SR2 picture"
+
+#: includes/fields/file.php:862
+msgid "Image Sony SRF"
+msgstr "Sony SRF picture"
+
+#: includes/fields/file.php:866
+msgid "Image XBM"
+msgstr "XBM picture"
+
+#: includes/fields/file.php:870
+msgid "Image XPM"
+msgstr "XPM  picture"
+
+#: includes/fields/file.php:874
+msgid "Image XWD"
+msgstr "XWD picture"
+
+#: includes/fields/file.php:881
+msgid "Video 3GPP"
+msgstr "3GPP video"
+
+#: includes/fields/file.php:885
+msgid "Video 3GPP2"
+msgstr "3GPP2 video"
+
+#: includes/fields/file.php:889
+msgid "Video H261"
+msgstr "H261 video"
+
+#: includes/fields/file.php:893
+msgid "Video H263"
+msgstr "H263 video"
+
+#: includes/fields/file.php:897
+msgid "Video H264"
+msgstr "H264 video"
+
+#: includes/fields/file.php:901
+msgid "Video JPEG"
+msgstr "JPEG video"
+
+#: includes/fields/file.php:906
+msgid "Video JPM"
+msgstr "JPM video"
+
+#: includes/fields/file.php:911
+msgid "Video MJ2"
+msgstr "MJ2 video"
+
+#: includes/fields/file.php:915
+msgid "Video TS"
+msgstr "TS video"
+
+#: includes/fields/file.php:921
+msgid "Video MP4"
+msgstr "MP4 video"
+
+#: includes/fields/file.php:930
+msgid "Video MPEG"
+msgstr "MPEG video"
+
+#: includes/fields/file.php:934
+msgid "Video OGG"
+msgstr "OGG video"
+
+#: includes/fields/file.php:940
+msgid "Vidéo Quicktime (MOV)"
+msgstr "Quicktime video (MOV)"
+
+#: includes/fields/file.php:944
+msgid "Vidéo FVT"
+msgstr "FVT video"
+
+#: includes/fields/file.php:949
+msgid "Vidéo M4U"
+msgstr "M4U video"
+
+#: includes/fields/file.php:953
+msgid "Vidéo PYV"
+msgstr "PYV video"
+
+#: includes/fields/file.php:957
+msgid "Vidéo Vivo"
+msgstr "Vivo video"
+
+#: includes/fields/file.php:961
+msgid "Vidéo WEBM"
+msgstr "WEBM video"
+
+#: includes/fields/file.php:965
+msgid "Vidéo F4V"
+msgstr "F4V video"
+
+#: includes/fields/file.php:969
+msgid "Vidéo FLI"
+msgstr "FLI video"
+
+#: includes/fields/file.php:973
+msgid "Vidéo FLV"
+msgstr "FLV video"
+
+#: includes/fields/file.php:977
+msgid "Vidéo M4V"
+msgstr "M4V video"
+
+#: includes/fields/file.php:981
+msgid "Vidéo MKV"
+msgstr "MKV video"
+
+#: includes/fields/file.php:986
+msgid "Vidéo ASF"
+msgstr "ASF video"
+
+#: includes/fields/file.php:990
+msgid "Vidéo WM"
+msgstr "WM video"
+
+#: includes/fields/file.php:994
+msgid "Vidéo WMV"
+msgstr "WMV video"
+
+#: includes/fields/file.php:998
+msgid "Vidéo WMX"
+msgstr "WMX video"
+
+#: includes/fields/file.php:1002
+msgid "Vidéo WVX"
+msgstr "WVX video"
+
+#: includes/fields/file.php:1006
+msgid "Vidéo AVI"
+msgstr "AVI video"
+
+#: includes/fields/file.php:1010
+msgid "Vidéo Movie"
+msgstr "Movie video"
+
+#: includes/fields/file.php:1017
+msgid "Document AbiWord"
+msgstr "AbiWord document"
+
+#: includes/fields/file.php:1027
+msgid "Document Microsoft Word (DOC et DOCX)"
+msgstr "Microsoft Word document (DOC and DOCX)"
+
+#: includes/fields/file.php:1031
+msgid "Document Presentation OpenDocument (ODP)"
+msgstr "OpenDocument Presentation document (ODP)"
+
+#: includes/fields/file.php:1035
+msgid "Document Calc OpenDocument (ODS)"
+msgstr "OpenDocument Calc document (ODS)"
+
+#: includes/fields/file.php:1039
+msgid "Document Texte OpenDocument (ODT)"
+msgstr "OpenDocument Text document (ODT)"
+
+#: includes/fields/file.php:1044
+msgid "Document PDF"
+msgstr "PDF document"
+
+#: includes/fields/file.php:1048
+msgid "Document PowerPoint (PPT)"
+msgstr "PowerPoint document (PPT)"
+
+#: includes/fields/file.php:1052
+msgid "Document Excel (XLS)"
+msgstr "Excel document (XLS)"
+
+#: includes/fields/file.php:1061
+msgid "Document Calc (CSV)"
+msgstr "Calc document (CSV)"
+
+#: includes/fields/file.php:1065
+msgid "Document XHTML"
+msgstr "XHTML document"
+
+#: includes/fields/file.php:1069
+msgid "Document Rich Text Format (RTF)"
+msgstr "Rich Text Format document (RTF)"
+
+#: includes/fields/file.php:1073
+msgid "Document XML"
+msgstr "XML document"
+
+#: includes/fields/file.php:1077
+msgid "Document XUL"
+msgstr "XUL document"
+
+#: includes/fields/file.php:1081
+msgid "Document CSS"
+msgstr "CSS document"
+
+#: includes/fields/file.php:1086
+msgid "Document HTML"
+msgstr "HTML document"
+
+#: includes/fields/file.php:1090
+msgid "Calendrier (ICAL)"
+msgstr "Calendar (ICAL)"
+
+#: includes/fields/file.php:1109
+msgid "Document JavaScript"
+msgstr "JavaScript document"
+
+#: includes/fields/file.php:1113
+msgid "Document JSON"
+msgstr "JSON document"
+
+#: includes/fields/file.php:1121
+msgid "Document Markdown"
+msgstr "Markdown document"
+
+#: includes/fields/file.php:1127
+msgid "Document MathML"
+msgstr "MathML document"
+
+#: includes/fields/file.php:1140
+msgid "Document Texte"
+msgstr "Text document"
+
+#: includes/fields/file.php:1144
+msgid "Document DSC"
+msgstr "DSC document"
+
+#: includes/fields/file.php:1148
+msgid "Document RTX"
+msgstr "RTX document"
+
+#: includes/fields/file.php:1153
+msgid "Document SGM"
+msgstr "SGM document"
+
+#: includes/fields/file.php:1157
+msgid "Document TSV"
+msgstr "TSV document"
+
+#: includes/fields/file.php:1166
+msgid "Document TROFF"
+msgstr "TROFF document"
+
+#: includes/fields/file.php:1172
+msgid "Document URI"
+msgstr "URI document"
+
+#: includes/fields/file.php:1176
+msgid "Document CURL"
+msgstr "CURL document"
+
+#: includes/fields/file.php:1180
+msgid "Document DCURL"
+msgstr "CURL document"
+
+#: includes/fields/file.php:1184
+msgid "Document MCURL"
+msgstr "MCURL document"
+
+#: includes/fields/file.php:1188
+msgid "Document SCURL"
+msgstr "SCURL document"
+
+#: includes/fields/file.php:1192
+msgid "Document FLY"
+msgstr "FLY document"
+
+#: includes/fields/file.php:1196
+msgid "Document FLX"
+msgstr "FLX document"
+
+#: includes/fields/file.php:1200
+msgid "Document GV"
+msgstr "GV document"
+
+#: includes/fields/file.php:1204
+msgid "Document 3DML"
+msgstr "3DML document"
+
+#: includes/fields/file.php:1208
+msgid "Document SPOT"
+msgstr "SPOT document"
+
+#: includes/fields/file.php:1212
+msgid "Document JAD"
+msgstr "JAD document"
+
+#: includes/fields/file.php:1216
+msgid "Document SI"
+msgstr "SI document"
+
+#: includes/fields/file.php:1220
+msgid "Document SL"
+msgstr "SL document"
+
+#: includes/fields/file.php:1224
+msgid "Document WML"
+msgstr "WML document"
+
+#: includes/fields/file.php:1228
+msgid "Document WMLS"
+msgstr "WMLS document"
+
+#: includes/fields/file.php:1233
+msgid "Document ASM"
+msgstr "ASM document"
+
+#: includes/fields/file.php:1240
+msgid "Document Fortran"
+msgstr "Fortran document"
+
+#: includes/fields/file.php:1244
+msgid "Document JAVA"
+msgstr "JAVA document"
+
+#: includes/fields/file.php:1251
+msgid "Document Pascal"
+msgstr "Pascal document"
+
+#: includes/fields/file.php:1255
+msgid "Document Python"
+msgstr "Python document"
+
+#: includes/fields/file.php:1259
+msgid "Document ETX"
+msgstr "ETX document"
+
+#: includes/fields/file.php:1263
+msgid "Document UU"
+msgstr "UU document"
+
+#: includes/fields/file.php:1267
+msgid "Document VCS"
+msgstr "VCS document"
+
+#: includes/fields/file.php:1271
+msgid "Document VCard"
+msgstr "VCard document"
+
+#: includes/fields/file.php:1278
+msgid "Archive ARC"
+msgstr "ARC archive"
+
+#: includes/fields/file.php:1282
+msgid "Archive BZip"
+msgstr "BZip archive"
+
+#: includes/fields/file.php:1286
+msgid "Archive BZip2"
+msgstr "BZip2 archive"
+
+#: includes/fields/file.php:1290
+msgid "Archive RAR"
+msgstr "RAR archive"
+
+#: includes/fields/file.php:1294
+msgid "Archive TAR"
+msgstr "TAR archive"
+
+#: includes/fields/file.php:1298
+msgid "Archive ZIP"
+msgstr "ZIP archive"
+
+#: includes/fields/file.php:1302
+msgid "Archive 7-zip"
+msgstr "7-zip archive"
+
+#: includes/fields/file.php:1309
+msgid "E-Book Amazon Kindle"
+msgstr "Amazon Kindle E-book"
+
+#: includes/fields/file.php:1313
+msgid "Livre Electronique (EPUB)"
+msgstr "E-Book (EPUB)"
+
+#: includes/fields/file.php:1317
+msgid "Fichier binaire"
+msgstr "Binary file"
+
+#: includes/fields/file.php:1321
+msgid "Script C-Shell"
+msgstr "C-Shell script"
+
+#: includes/fields/file.php:1325
+msgid "Archive Java (JAR)"
+msgstr "Java archive (JAR)"
+
+#: includes/fields/file.php:1329
+msgid "Paquet d'installation Apple"
+msgstr "Apple installation packet"
+
+#: includes/fields/file.php:1333
+msgid "Fichier OGX"
+msgstr "OGX file"
+
+#: includes/fields/file.php:1337
+msgid "Script Shell"
+msgstr "Shell script"
+
+#: includes/fields/file.php:1341
+msgid "Document Flash (SWF)"
+msgstr "Flash document (SWF)"
+
+#: includes/fields/file.php:1345
+msgid "Microsoft Visio"
+msgstr "Microsoft Visio"
+
+#: includes/fields/password.php:163
+msgid "Afficher/Masquer le mot de passe"
+msgstr "Show/Hide password"
+
+#: includes/fields/password.php:185
+msgid "Une majuscule"
+msgstr "An uppercase"
+
+#: includes/fields/password.php:186
+msgid "8 caractères"
+msgstr "8 characters"
+
+#: includes/fields/password.php:187
+msgid "Une minuscule"
+msgstr "A lowercase"
+
+#: includes/fields/password.php:188
+msgid "Un caractère spécial"
+msgstr "A special character"
+
+#: includes/fields/password.php:189
+msgid "Un chiffre"
+msgstr "One digit"
+
+#: includes/fields/password.php:190
+msgid "Ne pas être trop commun"
+msgstr "Not to be too common"
+
+#: includes/fields/password.php:194
+msgid ""
+"Pour plus de sécurité, votre mot de passe doit comporter au moins&nbsp;:"
+msgstr "For added security, your password must include at least&nbsp;:"
+
+#: includes/fields/password.php:200
+msgid "Recommandé"
+msgstr "Recommended"
+
+#: includes/fields/select.php:441 includes/front/front.php:709
+msgid "Champ "
+msgstr "Field "
+
+#: includes/fields/select.php:488
+#, php-format
+msgid "et %s autre"
+msgid_plural "et %s autres"
+msgstr[0] "and %s more"
+msgstr[1] "and %s more"
+
+#: includes/fields/select.php:551
+msgid "Aucune option n'est proposée."
+msgstr "No options are available."
+
+#: includes/fields/tel.php:194
+msgid "Choisissez votre pays"
+msgstr "Choose your country"
+
+#: includes/front/front.php:372
+msgid "Ce champ est requis."
+msgstr "This field is required."
+
+#: includes/front/front.php:373
+msgid "Veuillez renseigner un chiffre supérieur ou égal à {0}."
+msgstr "Please enter a number greater than or equal to {0}."
+
+#: includes/front/front.php:374
+msgid "Veuillez renseigner un chiffre inférieur ou égal à {0}."
+msgstr "Please enter a number less than or equal to {0}."
+
+#: includes/front/front.php:375
+msgid "Le format ne correspond pas à celui attendu."
+msgstr "The format is not as expected."
+
+#: includes/front/front.php:376
+msgid "Veuillez renseigner une date valide."
+msgstr "Please enter a valid date."
+
+#: includes/front/front.php:377
+msgid "Veuillez renseigner un chiffre."
+msgstr "Please enter a number."
+
+#: includes/front/front.php:378
+msgid "Le format de l'URL semble invalide."
+msgstr "The URL format seems to be invalid."
+
+#: includes/front/front.php:379
+msgid "Le format de cette adresse-mail semble invalide."
+msgstr "The format of this email address appears to be invalid."
+
+#: includes/front/front.php:380
+msgid "Une option obligatoire n'a pas été sélectionnée."
+msgstr "A required option has not been selected."
+
+#: includes/front/front.php:381
+msgid "Veuillez choisir une option."
+msgstr "Please select an option."
+
+#: includes/front/front.php:382
+msgid "Veuillez choisir une ou plusieurs option(s)."
+msgstr "Please select one or more options."
+
+#: includes/front/front.php:383
+msgid "Le mot de passe n'est pas assez sécurisé."
+msgstr "The password is not secure enough."
+
+#: includes/front/front.php:384
+msgid "Les mots de passe ne sont pas identiques."
+msgstr "The passwords are not identical."
+
+#: includes/front/front.php:385
+msgid "Le mot de passe est incorrect."
+msgstr "The password is incorrect."
+
+#: includes/front/front.php:386
+msgid "Les adresses e-mail ne sont pas identiques."
+msgstr "The email addresses are not identical."
+
+#: includes/front/front.php:387
+msgid "Les champs ne sont pas identiques."
+msgstr "The fields are not identical."
+
+#: includes/front/front.php:388
+msgid "Ce numéro semble incorrect."
+msgstr "This number seems to be incorrect."
+
+#: includes/front/front.php:389
+msgid "Ce champ doit être unique. Cette valeur est déjà utilisée."
+msgstr "This field must be unique. This value is already in use."
+
+#: includes/front/front.php:390
+msgid "Cette adresse e-mail est déjà utilisée."
+msgstr "This email address is already in use."
+
+#: includes/front/front.php:391
+msgid "Ce mot de passe est déjà utilisée."
+msgstr "This password is already in use."
+
+#: includes/front/front.php:392
+msgid "Ce numéro est déjà utilisée."
+msgstr "This number is already in use."
+
+#: includes/front/front.php:393
+msgid "Un compte existe déjà avec cette adresse e-mail."
+msgstr "An account already exists with this email address."
+
+#: includes/front/front.php:394
+msgid "Ce nom d'utilisateur est déjà utilisé."
+msgstr "This username is already in use."
+
+#: includes/front/front.php:395
+msgid "Veuillez entrer une valeur déjà utilisée."
+msgstr "Please enter a value that has already been used."
+
+#: includes/front/front.php:396
+msgid "Cette adresse e-mail n'est pas enregistrée."
+msgstr "This email address is not registered."
+
+#: includes/front/front.php:397
+msgid "Ce mot de passe n'est pas enregistrée."
+msgstr "This password  is not registered."
+
+#: includes/front/front.php:398
+msgid "Ce numéro n'est pas enregistrée."
+msgstr "This number is not registered."
+
+#: includes/front/front.php:399
+msgid "L'adresse e-mail est incorrect."
+msgstr "The email address is incorrect."
+
+#: includes/front/front.php:400
+msgid "Ce nom d'utilisateur n'est pas enregistré."
+msgstr "This username is not registered."
+
+#: includes/front/front.php:401
+msgid "Nombre maximum de fichiers atteint."
+msgstr "Maximum number of files reached."
+
+#: includes/front/front.php:402
+msgid "Ce fichier est trop volumineux."
+msgstr "This file is too large."
+
+#: includes/front/front.php:403
+msgid "Le format de ce fichier n'est pas accepté."
+msgstr "This file format is not accepted."
+
+#: includes/front/front.php:404
+msgid "Un ou plusieurs fichiers sont trop volumineux."
+msgstr "One or more files are too large."
+
+#: includes/front/front.php:405
+msgid "Le format d'un ou plusieurs fichiers n'est pas accepté."
+msgstr "The format of one or more files is not accepted."
+
+#: includes/front/front.php:730
+msgid "Facultatif"
+msgstr "Optional"
+
+#: plugins/cf7.php:48 plugins/cf7.php:49
+msgid "Texte"
+msgstr "Text"
+
+#: plugins/cf7.php:50 plugins/cf7.php:51
+msgid "E-mail"
+msgstr "Mail"
+
+#: plugins/cf7.php:52 plugins/cf7.php:53
+msgid "URL"
+msgstr "URL"
+
+#: plugins/cf7.php:54 plugins/cf7.php:55
+msgid "Téléphone"
+msgstr "Phone"
+
+#: plugins/cf7.php:56 plugins/cf7.php:57
+msgid "Zone de texte"
+msgstr "Text area"
+
+#: plugins/cf7.php:58 plugins/cf7.php:59
+msgid "Nombre"
+msgstr "Number"
+
+#: plugins/cf7.php:60 plugins/cf7.php:61
+msgid "Date"
+msgstr "Datepicker"
+
+#: plugins/cf7.php:62 plugins/cf7.php:63
+msgid "Éditeur avancé"
+msgstr "Advanced editor"
+
+#: plugins/cf7.php:64 plugins/cf7.php:65
+msgid "Fichier"
+msgstr "File"
+
+#: plugins/cf7.php:66 plugins/cf7.php:67
+msgid "Liste déroulante"
+msgstr "Drop-down list"
+
+#: plugins/cf7.php:68 plugins/cf7.php:69
+msgid "Cases à cocher"
+msgstr "Checkboxes"
+
+#: plugins/cf7.php:70
+msgid "Bouton radio"
+msgstr "Radio button"
+
+#: plugins/cf7.php:669 plugins/cf7.php:672
+msgid "Type de champ"
+msgstr "Field type"
+
+#: plugins/cf7.php:673
+msgid "Champ obligatoire"
+msgstr "Required field"
+
+#: plugins/cf7.php:679
+msgid "Nom"
+msgstr "Name"
+
+#: plugins/cf7.php:687
+msgid "Libellé"
+msgstr "Label"
+
+#: plugins/cf7.php:698
+msgid "Formats acceptés"
+msgstr "Accepted formats"
+
+#: plugins/cf7.php:702
+msgid ""
+"Renseignez les types MIME et/ou les extensions acceptés pour ce(s) "
+"fichier(s). (ex: text/plain, .jpg, .pdf, ...)"
+msgstr ""
+"Enter the MIME types and/or extensions accepted for the file(s). (ex: text/"
+"plain, .jpg, .pdf, ...)"
+
+#: plugins/cf7.php:707
+#, php-format
+msgid "Taille du fichier %s(en bytes)"
+msgstr "File size %s(in bytes)"
+
+#: plugins/cf7.php:715
+msgid "Multiple"
+msgstr "Multiple"
+
+#: plugins/cf7.php:718
+msgid "Permettre la selection multiple de fichiers."
+msgstr "Enable multiple selection of files."
+
+#: plugins/cf7.php:723
+msgid "Nombre de fichiers maximum"
+msgstr "Maximum number of files"
+
+#: plugins/cf7.php:727
+msgid "Laissez vide ou 0 pour ne pas mettre de limite."
+msgstr "Leave blank or 0 to set no limit."
+
+#: plugins/cf7.php:735
+msgid "Valeur par défaut"
+msgstr "Default value"
+
+#: plugins/cf7.php:739
+msgid "Utilisez ce texte comme texte indicatif du champ."
+msgstr "Use this text as a guide to the field."
+
+#: plugins/cf7.php:752
+msgid "Insérer la balise"
+msgstr "Insert Tag"
+
+#: plugins/cf7.php:756
+#, php-format
+msgid ""
+"Pour utiliser la valeur de ce champ dans un champ d’e-mail, vous devez "
+"insérer le nom de balise correspondante (%s) dans l’onglet E-mail."
+msgstr ""
+"To use the value input through this field in a mail field, you need to "
+"insert the corresponding mail-tag (%s) into the field on the Mail tab."
+
+#, php-format
+#~ msgid ""
+#~ "To use the value input through this field in a mail field, you need to "
+#~ "insert the corresponding mail-tag (%s) into the field on the Mail tab."
+#~ msgstr ""
+#~ "To use the value input through this field in a mail field, you need to "
+#~ "insert the corresponding mail-tag (%s) into the field on the Mail tab."
